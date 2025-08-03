@@ -1,0 +1,1 @@
+// Unity WebGL build js placeholder
